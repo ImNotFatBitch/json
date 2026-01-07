@@ -1,0 +1,87 @@
+{
+    {
+        Name = "Universal",
+        Changelog = [[
+            * CHANGELOG 1.0.0
+            + Nothing
+            ]]
+    },
+    {
+        Name = "BloxStrike",
+        Changelog = [[
+            * CHANGELOG 1.0.9
+            * Rework esp/better perf
+            + Gradiant for every elements
+            + Can custom everything, text/size/pos
+            + Exploit Section, Grab all gun on the ground
+            + Silent aim Viewmodel
+            * Reduce Fov Size for aimbot/silent aim
+            * Fix ThirdPerson, you can hit now
+            * Fix AutoWall he makes fewer mistakes now
+            + Fade Kill
+            + Spin Gradient
+            + Auto buy Fallback
+            * Fix Lighning effects
+            * Fix Min Damage/Scan Part
+            + Add No Scope Zoom
+            + Add No Scope Border
+            + Add Gloves Changer
+            + Fix Charm
+            * Fix all features that don't work on mobile
+            + Always minimap esp
+            - Remove Knife Aura
+            ]]
+    },
+    {
+        Name = "Counter Blox",
+        Changelog = [[
+            * CHANGELOG 1.0.7
+            + Auto Wall Perf and perfect now
+            + Chams Arms/Weapon/Self
+            * Better Skin Changer
+            * Better Spec List
+            * Better Bhop Rage
+            + Auto Peak
+            * Alot Perf Opti For Esp
+            - Double Tap
+            - Instant Hit
+            - Desync
+            - Alot usless esp features
+            ]]
+    },
+    {
+        Name = "Case Opening Simulator",
+        Changelog = [[
+            * CHANGELOG 1.0.1
+            + Nothing
+            ]]
+    },
+    {
+        Name = "Prison Life",
+        Changelog = [[
+            * CHANGELOG 1.0.0
+            + Nothing
+            ]]
+    },
+    {
+        Name = "Frontlines",
+        Changelog = [[
+            * CHANGELOG 1.0.0
+            + Nothing
+            ]]
+    },
+    {
+        Name = "Flick",
+        Changelog = [[
+            * CHANGELOG 1.0.0
+            + Nothing
+            ]]
+    },
+    {
+        Name = "Sniper Duels",
+        Changelog = [[
+            * CHANGELOG 1.0.1
+            + Nothing
+            ]]
+    }
+}
