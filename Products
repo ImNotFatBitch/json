@@ -1,0 +1,53 @@
+{
+  "lastUpdate": "2026-01-4",
+  "scripts": [
+    {
+      "Name": "Universal",
+      "Status": "Undetected",
+      "Version": "Version 1.0.0",
+      "URL": "https://pandadevelopment.net/virtual/file/2f83349d15592f70"
+    },
+    {
+      "Name": "BloxStrike",
+      "Status": "Undetected",
+      "Version": "Version 1.0.8",
+      "URL": "https://pandadevelopment.net/virtual/file/6f91a516ef9f23ec"
+    },
+    {
+      "Name": "Counter Blox",
+      "Status": "Undetected",
+      "Version": "Version 1.0.7",
+      "URL": "https://pandadevelopment.net/virtual/file/cfe6b4fae1faf8a5"
+    },
+    {
+      "Name": "Case Opening Simulator",
+      "Status": "Undetected",
+      "Version": "Version 1.0.1",
+      "URL": "https://pandadevelopment.net/virtual/file/8935caec511b380c"
+    },
+    {
+      "Name": "Prison Life",
+      "Status": "Undetected",
+      "Version": "Version 1.0.0",
+      "URL": "https://pandadevelopment.net/virtual/file/2ba1e7032fb30a2e"
+    },
+    {
+      "Name": "Frontlines",
+      "Status": "Undetected",
+      "Version": "Version 1.0.0",
+      "URL": "https://pandadevelopment.net/virtual/file/741093e5aa396dd3"
+    },
+    {
+      "Name": "Sniper Duels",
+      "Status": "Undetected",
+      "Version": "Version 1.0.1",
+      "URL": "https://pandadevelopment.net/virtual/file/b496814cf0182e4e"
+    },
+    {
+      "Name": "Flick",
+      "Status": "Undetected",
+      "Version": "Version 1.0.0",
+      "URL": "https://pandadevelopment.net/virtual/file/f6fb6936debb9d17"
+    }
+  ]
+}
