@@ -9,12 +9,12 @@
     {
         Name = "BloxStrike",
         Changelog = [[
-            * CHANGELOG 1.1.0
-            * Better Smooth Aimbot
-            * Fix Skin Changer
-            * Fix Minimap Always
-            + Weapon Text/Icon esp
-            - Remove Ignore Wall (detected)
+            * CHANGELOG 1.1.1
+            * Better AutoWall
+            * Fix Auto Shoot
+            * Fix BackTrack
+            * Better No Spread
+            * Fix Skin Changer/Gloves
             ]]
     },
     {
