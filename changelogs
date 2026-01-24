@@ -9,12 +9,15 @@
     {
         Name = "BloxStrike",
         Changelog = [[
-            * CHANGELOG 1.1.1
-            * Better AutoWall
-            * Fix Auto Shoot
-            * Fix BackTrack
-            * Better No Spread
-            * Fix Skin Changer/Gloves
+            * CHANGELOG 1.1.2
+            + Instant Reload
+            + Prediction Silent Aim (Ping base)
+            + Money Esp
+            + Ammo Esp
+            * Rework Mouvement (Bhop etc..)
+            * Fix Shoot Backtrack
+            * Better Speedhack
+            * Rework BackTrack
             ]]
     },
     {
