@@ -23,18 +23,8 @@
     {
         Name = "Counter Blox",
         Changelog = [[
-            * CHANGELOG 1.0.7
-            + Auto Wall Perf and perfect now
-            + Chams Arms/Weapon/Self
-            * Better Skin Changer
-            * Better Spec List
-            * Better Bhop Rage
-            + Auto Peak
-            * Alot Perf Opti For Esp
-            - Double Tap
-            - Instant Hit
-            - Desync
-            - Alot usless esp features
+            * CHANGELOG 1.0.8
+            * Fix Bug Character
             ]]
     },
     {
