@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-24",
+  "lastUpdate": "2026-01-26",
   "scripts": [
     {
       "Name": "Universal",
@@ -16,7 +16,7 @@
     {
       "Name": "Counter Blox",
       "Status": "Undetected",
-      "Version": "Version 1.0.7",
+      "Version": "Version 1.0.8",
       "URL": "https://pandadevelopment.net/virtual/file/cfe6b4fae1faf8a5"
     },
     {
