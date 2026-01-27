@@ -58,8 +58,16 @@
     {
         Name = "Sniper Duels",
         Changelog = [[
-            * CHANGELOG 1.0.1
-            + Nothing
+            * CHANGELOG 1.0.2
+            * Rework Esp
+            * Fix Skin Changer (Rework)
+            * Fix/Rework Alot Hook for more stability
+            * Optimization
+            + Hitchance Silent Aim
+            + KnifeBot (Knife Aura)
+            + No Weapon Bob
+            + No Equip Time
+            - Remove Fake Aiming Status
             ]]
     }
 }
