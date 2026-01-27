@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-26",
+  "lastUpdate": "2026-01-27",
   "scripts": [
     {
       "Name": "Universal",
@@ -40,7 +40,7 @@
     {
       "Name": "Sniper Duels",
       "Status": "Undetected",
-      "Version": "Version 1.0.1",
+      "Version": "Version 1.0.2",
       "URL": "https://pandadevelopment.net/virtual/file/b496814cf0182e4e"
     },
     {
