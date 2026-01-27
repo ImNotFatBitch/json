@@ -11,6 +11,7 @@
         Changelog = [[
             * CHANGELOG 1.1.3
             + Update For Last Game Version
+            + You can see the pitch In Thirdperson now (Anti-Aim)
             * Fix Silent Aim Wallbang Glitch
             * Fix Detection
             * Fix BackTrack
