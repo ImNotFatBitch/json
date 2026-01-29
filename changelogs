@@ -9,14 +9,15 @@
     {
         Name = "BloxStrike",
         Changelog = [[
-            * CHANGELOG 1.1.3
-            + Update For Last Game Version
-            + You can see the pitch In Thirdperson now (Anti-Aim)
-            * Fix Silent Aim Wallbang Glitch
-            * Fix Detection
-            * Fix BackTrack
-            * Fix Anti-Aim
-            * Optimization
+            * CHANGELOG 1.1.4
+            * Rework Silent Aim
+            * Rework Backtrack
+            * Optimization Silent Aim, Esp no more drop fps (fr) (i think)
+            * Change Smooth Aimbot
+            * Rework Resolver
+            * Fix Thirdperson with the silent aim
+            + Switch Delay Aimbot
+            + Add Ignore Wall
             ]]
     },
     {
