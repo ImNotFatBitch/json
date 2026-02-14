@@ -9,15 +9,11 @@
     {
         Name = "BloxStrike",
         Changelog = [[
-            * CHANGELOG 1.1.4
-            * Rework Silent Aim
-            * Rework Backtrack
-            * Optimization Silent Aim, Esp no more drop fps (fr) (i think)
-            * Change Smooth Aimbot
-            * Rework Resolver
-            * Fix Thirdperson with the silent aim
-            + Switch Delay Aimbot
-            + Add Ignore Wall
+            * CHANGELOG 1.1.5
+            * Fix All Detection
+            * Rework SpeedHack/Mouvement System
+            * Optimization Again
+            * Better AutoWall
             ]]
     },
     {
