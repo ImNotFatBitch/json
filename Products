@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-27",
+  "lastUpdate": "2026-02-14",
   "scripts": [
     {
       "Name": "Universal",
@@ -9,8 +9,8 @@
     },
     {
       "Name": "BloxStrike",
-      "Status": "Outdated",
-      "Version": "Version 1.1.4",
+      "Status": "Undetected",
+      "Version": "Version 1.1.5",
       "URL": "https://pandadevelopment.net/virtual/file/6f91a516ef9f23ec"
     },
     {
