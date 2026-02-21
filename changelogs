@@ -9,11 +9,20 @@
     {
         Name = "BloxStrike",
         Changelog = [[
-            * CHANGELOG 1.1.5
-            * Fix All Detection
-            * Rework SpeedHack/Mouvement System
-            * Optimization Again
-            * Better AutoWall
+            * CHANGELOG 1.1.6
+            * Optimization
+            * Fix Firerate Changer/ Moove Rage Tab->Misc/Weapons mods
+            * Better AntiAim
+            + Force Hit
+            + MissShot Notifications
+            + Filled Fov Aimbot/SilentAim
+            + Kill effects (Blood Explosion/Incineration)
+            + 2 new exploit (Ping Enemy/Silent Walk)
+            + Removals Sections (Remove Blood/Hands/Weapons)
+            * Moove Remove Scope/Custom Scope->Misc/Removals
+            + Custom Scope (Length/Gap/Thickness)
+            + Hitmarker Size/Damage Hitmarker/Duration
+            * Fix Backtrack Shoot
             ]]
     },
     {
