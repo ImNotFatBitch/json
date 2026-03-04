@@ -16,6 +16,13 @@
             ]]
     },
     {
+        Name = "BloxStrike-Lite",
+        Changelog = [[
+            * CHANGELOG 1.0.0
+            * Optimized for free executor (Velocity/Ronix)
+            ]]
+    },
+    {
         Name = "Counter Blox",
         Changelog = [[
             * CHANGELOG 1.0.8
