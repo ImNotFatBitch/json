@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-14",
+  "lastUpdate": "2026-03-11",
   "scripts": [
     {
       "Name": "Universal",
@@ -8,16 +8,16 @@
       "URL": "https://vss.pandadevelopment.net/virtual/file/2f83349d15592f70"
     },
     {
-      "Name": "BloxStrike",
-      "Status": "Detected",
-      "Version": "Version 1.1.7",
-      "URL": "https://vss.pandadevelopment.net/virtual/file/6f91a516ef9f23ec"
-    },
-    {
       "Name": "BloxStrike-Lite",
-      "Status": "Detected",
+      "Status": "Undetected",
       "Version": "Version 1.0.0",
       "URL": "https://vss.pandadevelopment.net/virtual/file/452efb058b46475a"
+    },
+    {
+      "Name": "BloxStrike",
+      "Status": "Down",
+      "Version": "Version 1.1.7",
+      "URL": "https://vss.pandadevelopment.net/virtual/file/6f91a516ef9f23ec"
     },
     {
       "Name": "Counter Blox",
