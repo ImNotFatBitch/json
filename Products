@@ -9,13 +9,13 @@
     },
     {
       "Name": "BloxStrike",
-      "Status": "Undetected",
+      "Status": "Detected",
       "Version": "Version 1.1.7",
       "URL": "https://vss.pandadevelopment.net/virtual/file/6f91a516ef9f23ec"
     },
     {
       "Name": "BloxStrike-Lite",
-      "Status": "Undetected",
+      "Status": "Detected",
       "Version": "Version 1.0.0",
       "URL": "https://vss.pandadevelopment.net/virtual/file/452efb058b46475a"
     },
