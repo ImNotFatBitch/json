@@ -18,7 +18,9 @@
     {
         Name = "BloxStrike-Lite",
         Changelog = [[
-            * CHANGELOG 1.0.0
+            * CHANGELOG 1.0.1
+            - Remove World Modulation part (detected)
+            + Add Remove Smoke/Flash in removals sections
             * Optimized for free executor (Velocity/Ronix)
             ]]
     },
